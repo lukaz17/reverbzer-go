@@ -1,0 +1,9 @@
+CryptoTool
+Copyright (C) 2025 Nguyen Nhat Tung.
+
+
+tf-golib
+-------
+This software uses code from tf-golib library (https://github.com/tforce-io/tf-golib).
+Licensed under MIT license. (https://github.com/tforce-io/tf-golib/blob/master/LICENSE).
+Copyright (C) 2025 T-Force I/O.
