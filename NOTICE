@@ -2,6 +2,13 @@ CryptoTool
 Copyright (C) 2025 Nguyen Nhat Tung.
 
 
+cobra
+------
+This software uses code from cobra library (https://github.com/spf13/cobra).
+Licensed under Apache-2.0 license (https://github.com/spf13/cobra/blob/main/LICENSE.txt).
+Copyright (C) 2013-2023 The Cobra Authors.
+
+
 tf-golib
 -------
 This software uses code from tf-golib library (https://github.com/tforce-io/tf-golib).
