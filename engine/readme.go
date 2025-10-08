@@ -4,13 +4,8 @@
 // You should receive a copy of MIT along with this software.
 // If not, see <https://opensource.org/license/mit>
 
-package main
-
-import (
-	"github.com/lukaz17/reverbzer-go/engine"
-)
-
-// Application entrypoint
-func main() {
-	engine.Execute()
-}
+/*
+ * Package engine is the core of the program. It wires up logic from other packages
+ * to handles request from users and delivers the result.
+ */
+package engine
